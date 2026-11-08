@@ -57,4 +57,8 @@ A barangay issuance and complaint management system developed for our capstone p
 - LinkedIn: https://www.linkedin.com/in/john-benedict-esperas-20505136b/
 - Email: jbesperas42@gmail.com
 
+## Portfolio
+
+[View My Portfolio]([https://bicms.vercel.app/](https://jb-portfolio-silk.vercel.app/))
+
 I'm currently looking for opportunities to gain real-world IT experience and continue learning from professionals in the field.
