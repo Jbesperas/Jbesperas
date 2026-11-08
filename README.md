@@ -1,5 +1,5 @@
 
-# Hi, I'm John Benedict Esperas! 👋
+# Hi, I'm John Benedict Esperas!
 
 I'm a Bachelor of Science in Information Technology student at Universidad de Manila.
 
