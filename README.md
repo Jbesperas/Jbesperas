@@ -59,6 +59,6 @@ A barangay issuance and complaint management system developed for our capstone p
 
 ## Portfolio
 
-[View My Portfolio]([https://bicms.vercel.app/](https://jb-portfolio-silk.vercel.app/))
+[View My Portfolio](https://jb-portfolio-silk.vercel.app/)
 
 I'm currently looking for opportunities to gain real-world IT experience and continue learning from professionals in the field.
